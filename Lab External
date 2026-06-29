@@ -1,1 +1,11 @@
-My name is Kushal
+#include<stdio.h>
+int main()
+{
+int a,b;
+int result;
+a=10;
+b=10;
+result=a+b;
+printf("Result=",result);
+return 0;
+}
